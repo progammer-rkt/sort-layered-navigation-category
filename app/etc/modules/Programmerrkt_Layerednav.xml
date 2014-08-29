@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Programmerrkt_Layerednav>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Programmerrkt_Layerednav>
+    </modules>
+</config>

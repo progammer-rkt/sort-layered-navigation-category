@@ -1,0 +1,17 @@
+<config>
+    <modules>
+        <Programmerrkt_Layerednav>
+            <version>0.1.0</version>
+        </Programmerrkt_Layerednav>
+    </modules>
+    <global>
+        <models>
+            <catalog>
+                <rewrite>
+                    <!-- Model rewrite-->
+                    <layer_filter_category>Programmerrkt_Layerednav_Model_Layer_Filter_Category</layer_filter_category>
+                </rewrite>
+            </catalog>
+        </models>
+    </global>
+</config>
